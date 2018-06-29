@@ -9,7 +9,7 @@
         <dimension name="weight" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Fox" filename="./ufo/Fox-Light.ufo" name="master_2">
+    <source familyname="Fox" filename="./ufo/Fox-Black.ufo" name="master_2">
       <location>
         <dimension name="weight" xvalue="1000"/>
       </location>
