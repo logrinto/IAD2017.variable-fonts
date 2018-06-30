@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <designspace format="3">
   <sources>
-    <source familyname="Scaler" filename="./ufo/Scaler-Line.ufo" name="master_1">
+    <source familyname="Fox" filename="./ufo/Fox-Light.ufo" name="master_1">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>
       <location>
-        <dimension name="weight" xvalue="1000"/>
+        <dimension name="weight" xvalue="0"/>
       </location>
     </source>
-    <source familyname="Scaler" filename="./ufo/Scaler-Black.ufo" name="master_2">
+    <source familyname="Fox" filename="./ufo/Fox-Black.ufo" name="master_2">
       <location>
-        <dimension name="weight" xvalue="0"/>
+        <dimension name="weight" xvalue="1000"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Scaler" filename="./instances/Scaler-Medium.ufo" stylename="Medium">
+    <instance familyname="Fox" filename="./instances/Fox-Medium.ufo" stylename="Medium">
       <info />
       <kerning />
       <location>
