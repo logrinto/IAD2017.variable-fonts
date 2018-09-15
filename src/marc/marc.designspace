@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<designspace format="3">
+  <sources>
+    <source familyname="Hatt_Fract" filename="./ufo/Hatt_Fract-Regular.ufo" name="master_1">
+      <lib copy="1"/>
+      <info copy="1"/>
+      <kerning copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+    <source familyname="Hatt_Fract" filename="./ufo/Hatt_Fract-Bold.ufo" name="master_2">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Hatt_Fract" filename="./instances/Hatt_Fract-Medium.ufo" stylename="Medium">
+      <info />
+      <kerning />
+      <location>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>
