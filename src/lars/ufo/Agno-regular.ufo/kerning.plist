@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>a</key>
+  <dict>
+    <key>g</key>
+    <integer>-69</integer>
+    <key>n</key>
+    <integer>-97</integer>
+    <key>k</key>
+    <integer>-111</integer>
+    <key>o</key>
+    <integer>-111</integer>
+  </dict>
+  <key>g</key>
+  <dict>
+    <key>a</key>
+    <integer>-111</integer>
+    <key>n</key>
+    <integer>-55</integer>
+    <key>k</key>
+    <integer>-41</integer>
+    <key>o</key>
+    <integer>-83</integer>
+  </dict>
+  <key>n</key>
+  <dict>
+    <key>a</key>
+    <integer>-97</integer>
+    <key>g</key>
+    <integer>-83</integer>
+    <key>k</key>
+    <integer>-97</integer>
+    <key>o</key>
+    <integer>-111</integer>
+  </dict>
+  <key>k</key>
+  <dict>
+    <key>a</key>
+    <integer>-153</integer>
+    <key>g</key>
+    <integer>-56</integer>
+    <key>n</key>
+    <integer>-56</integer>
+    <key>o</key>
+    <integer>-139</integer>
+  </dict>
+  <key>o</key>
+  <dict>
+    <key>a</key>
+    <integer>-83</integer>
+    <key>g</key>
+    <integer>-69</integer>
+    <key>n</key>
+    <integer>-69</integer>
+    <key>k</key>
+    <integer>-55</integer>
+  </dict>
+</dict>
+</plist>

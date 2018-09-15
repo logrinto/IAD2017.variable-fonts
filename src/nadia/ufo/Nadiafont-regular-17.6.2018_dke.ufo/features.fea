@@ -1,0 +1,43 @@
+languagesystem DFLT dflt;
+
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    pos \n \g -7;
+    pos \n \k 8;
+    pos \n \o 5;
+    pos \o \a 8;
+    pos \o \g -3;
+    pos \o \k -7;
+    pos \o \n -4;
+    pos \k \a -6;
+    pos \k \g -27;
+    pos \k \o -20;
+    pos \k \n -4;
+    pos \g \a -2;
+    pos \g \k -12;
+    pos \g \o 1;
+    pos \g \n -6;
+    pos \a \g 1;
+    pos \a \k 7;
+    pos \a \o 3;
+    pos \a \n 13;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+} kern;
+
+@GDEF_Simple = [\n \o \k \g \a \A \space \NULL \CR ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
