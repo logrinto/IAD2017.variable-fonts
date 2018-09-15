@@ -6,17 +6,8 @@
   <dict>
     <key>o</key>
     <integer>-63</integer>
-    <key>g</key>
-    <integer>-47</integer>
     <key>a</key>
     <integer>-39</integer>
-  </dict>
-  <key>o</key>
-  <dict>
-    <key>g</key>
-    <integer>-23</integer>
-    <key>a</key>
-    <integer>-31</integer>
   </dict>
   <key>g</key>
   <dict>
@@ -31,16 +22,10 @@
   <dict>
     <key>k</key>
     <integer>7</integer>
-    <key>o</key>
-    <integer>-16</integer>
-    <key>g</key>
-    <integer>-8</integer>
   </dict>
   <key>a</key>
   <dict>
     <key>o</key>
-    <integer>-31</integer>
-    <key>g</key>
     <integer>-31</integer>
   </dict>
 </dict>
