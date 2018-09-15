@@ -4,17 +4,23 @@
 <dict>
   <key>.notdef</key>
   <string>__notdef.glif</string>
+  <key>NULL</key>
+  <string>NULL____.glif</string>
+  <key>CR</key>
+  <string>CR__.glif</string>
+  <key>space</key>
+  <string>space.glif</string>
   <key>o</key>
   <string>o.glif</string>
+  <key>a</key>
+  <string>a.glif</string>
+  <key>g</key>
+  <string>g.glif</string>
   <key>k</key>
   <string>k.glif</string>
   <key>n</key>
   <string>n.glif</string>
-  <key>g</key>
-  <string>g.glif</string>
-  <key>a</key>
-  <string>a.glif</string>
-  <key>space</key>
-  <string>space.glif</string>
+  <key>K</key>
+  <string>K_.glif</string>
 </dict>
 </plist>
