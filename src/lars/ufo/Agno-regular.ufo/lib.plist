@@ -4,13 +4,11 @@
 <dict>
   <key>public.glyphOrder</key>
   <array>
-    <string>.notdef</string>
     <string>o</string>
     <string>k</string>
     <string>n</string>
     <string>g</string>
     <string>a</string>
-    <string>space</string>
   </array>
 </dict>
 </plist>
