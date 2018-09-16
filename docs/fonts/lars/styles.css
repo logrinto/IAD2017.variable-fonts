@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "beispiel_font";
+    font-family: "beispiel_font_lars";
     src: url("./lars-VF.woff2") format("woff2-variations"),
       url("./lars-VF.woff2") format("woff2"),
       url("lars-VF.woff") format("woff");
@@ -8,7 +8,7 @@
   }
   
   #lars {
-    font-family: "beispiel_font";
+    font-family: "beispiel_font_lars";
     font-variation-settings: "wght" 500;
     font-size: 4rem;
   }
