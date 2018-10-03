@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "beispiel_font_nils";
+  src: url("./nils-VF.woff2") format("woff2-variations"),
+    url("./nils-VF.woff2") format("woff2"),
+    url("nils-VF.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#beispiel {
+  font-family: "beispiel_font_nils";
+  font-variation-settings: "wght" 500;
+  font-size: 4rem;
+}
