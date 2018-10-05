@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Mirador_Matthias";
+    src: url("./matthiaskoch-VF.woff2") format("woff2-variations"),
+      url("./matthiaskoch-VF.woff2") format("woff2"),
+      url("matthiaskoch-VF.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  #matthias {
+    font-family: "Mirador_Matthias";
+    font-variation-settings: "wght" 500;
+    font-size: 4rem;
+  }
