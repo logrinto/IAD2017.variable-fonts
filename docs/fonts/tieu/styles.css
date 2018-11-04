@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "beispiel_font_tieu";
+  src: url("./tieu-VF.woff2") format("woff2-variations"),
+    url("./tieu-VF.woff2") format("woff2"),
+    url("tieu-VF.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#tieu {
+  font-family: "beispiel_font_tieu";
+  font-variation-settings: "wght" 500;
+  font-size: 4rem;
+}
