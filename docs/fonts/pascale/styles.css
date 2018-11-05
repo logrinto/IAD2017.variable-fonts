@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "beispiel_font";
+  src: url("./pascale-VF.woff2") format("woff2-variations"),
+    url("./pascale-VF.woff2") format("woff2"),
+    url("pascale-VF.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#pascale {
+  font-family: "beispiel_font";
+  font-variation-settings: "wght" 500;
+  font-size: 4rem;
+}
