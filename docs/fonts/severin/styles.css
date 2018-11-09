@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "beispiel_font_severin";
+    src: url("./severin-VF.woff2") format("woff2-variations"),
+      url("./severin-VF.woff2") format("woff2"),
+      url("severin-VF.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  #severin {
+    font-family: "beispiel_font_severin";
+    font-variation-settings: "wght" 500;
+    font-size: 4rem;
+  }
