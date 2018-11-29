@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "beispiel_font_marc";
+    src: url("./marc-VF.woff2") format("woff2-variations"),
+      url("./marc-VF.woff2") format("woff2"),
+      url("marc-VF.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  #marc {
+    font-family: "beispiel_font_marc";
+    font-variation-settings: "wght" 500;
+    font-size: 4rem;
+  }
