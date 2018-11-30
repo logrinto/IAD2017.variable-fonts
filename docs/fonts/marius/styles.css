@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "gokan";
+  src: url("./marius-VF.woff2") format("woff2-variations"),
+    url("./marius-VF.woff2") format("woff2"),
+    url("marius-VF.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#marius {
+  font-family: "gokan";
+  font-variation-settings: "wght" 500;
+  font-size: 4rem;
+}
