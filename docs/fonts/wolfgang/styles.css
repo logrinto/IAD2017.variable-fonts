@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "beispiel_font_wolfgang";
+    src: url("./wolfgang-VF.woff2") format("woff2-variations"),
+      url("./wolfgang-VF.woff2") format("woff2"),
+      url("wolfgang-VF.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  #wolfgang {
+    font-family: "beispiel_font_wolfgang";
+    font-variation-settings: "wght" 500;
+    font-size: 4rem;
+  }
