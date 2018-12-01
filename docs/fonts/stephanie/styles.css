@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "beispiel_font";
+  font-family: "stephanie";
   src: url("./stephanie-VF.woff2") format("woff2-variations"),
     url("./stephanie-VF.woff2") format("woff2"),
     url("stephanie-VF.woff") format("woff");
@@ -8,7 +8,7 @@
 }
 
 #stephanie {
-  font-family: "beispiel_font";
+  font-family: "stephanie";
   font-variation-settings: "wght" 500;
   font-size: 4rem;
 }
