@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "";
+  font-family: "marius";
   src: url("./marius-VF.woff2") format("woff2-variations"),
     url("./marius-VF.woff2") format("woff2"),
     url("marius-VF.woff") format("woff");
@@ -8,7 +8,7 @@
 }
 
 #marius {
-  font-family: "beispiel_font";
+  font-family: "marius";
   font-variation-settings: "wght" 500;
   font-size: 4rem;
 }
