@@ -6,9 +6,8 @@
     font-weight: normal;
     font-style: normal;
   }
-  
+
   #marc {
     font-family: "beispiel_font_marc";
     font-variation-settings: "wght" 500;
-    font-size: 4rem;
   }
